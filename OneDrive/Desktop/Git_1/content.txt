@@ -3,5 +3,10 @@ jerry
 ate
 cat
 tom
+<<<<<<< HEAD
 not
 rally
+=======
+the
+end
+>>>>>>> cat
